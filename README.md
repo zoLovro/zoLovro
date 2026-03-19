@@ -4,7 +4,7 @@ I'm **Lovro**, a CS student, game developer and technical artist.
 
 I love bringing worlds to life through code and art. Whether it's a pixel-art platformer or a 3D environment, if I can imagine the mechanic, I'll find a way to build it.
 
-My main tech stack is **C#** using **MonoGame**, **Godot**, and **Unity**. When I'm not coding, I’m usually in **Blender** sculpting 3D assets or **Aseprite** pushing pixels for my sprites.
+My main tech stack is **C#** using **MonoGame**, **Godot**, and **Unity**. For assets, I use **Aseprite** for 2D work and I'm currently picking up **Blender** for 3D.
 
 I've got several projects pinned below, but my absolute favorite is [**Ryn**](https://github.com/zoLovro/Ryn2.0).
 
